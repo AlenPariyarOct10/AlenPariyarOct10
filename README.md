@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlenPariyarOct10
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding
+- 👀 I’m interested in searching for Missing ;
+- 🌱 I’m currently learning to write bugs
 
 - 📫 How to reach me (oct10.alenpariyar@gmail.com)
 
